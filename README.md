@@ -1,1 +1,2 @@
 # ticket_react
+redux
